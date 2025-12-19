@@ -1,0 +1,273 @@
+﻿Contract,Difficulty,Service_Raw,Coder,Round,NAICS_Raw
+2023-03660-000,Easy,Mechanic,W,1,237310
+2023-03660-000,Easy,Truck driver,W,1,237310
+2023-03660-000,Easy,Heavy equipment operator,W,1,237310
+2023-03660-000,Easy,Service person,G,1,237310
+2023-03660-000,Easy,Truck driver,G,1,237310
+2023-03660-000,Easy,Maintenance technician,G,1,237310
+2023-03660-000,Easy,Traffic control crew,G,1,237310
+2023-03660-000,Easy,Traffic and vegetation control mechanic,G,1,237310
+2023-03660-000,Easy,Mechanic,G,1,237310
+2023-03660-000,Easy,Service person,D,1,237310
+2023-03660-000,Easy,Truck driver apprentice,D,1,237310
+2023-03660-000,Easy,Truck driver,D,1,237310
+2023-03660-000,Easy,Parts and maintenance technician,D,1,237310
+2023-03660-000,Easy,Traffic control crew,D,1,237310
+2023-03660-000,Easy,Motor equipment operator,D,1,237310
+2023-03660-000,Easy,Traffic and vegetation control,D,1,237310
+2023-03660-000,Easy,Mechanic,D,1,237310
+2023-03660-000,Easy,Mechanic II,D,1,237310
+2023-03660-000,Easy,Senior parts specialist,D,1,237310
+2023-03660-000,Easy,Lead person,D,1,237310
+2023-05433-000,Easy,Mechanic,W,1,237310
+2023-05433-000,Easy,Building maintenance,W,1,237310
+2023-05433-000,Easy,Heavy equipment operator,W,1,237310
+2023-05433-000,Easy,Mechanic,G,1,237310
+2023-05433-000,Easy,Sign technician,G,1,237310
+2023-05433-000,Easy,Heavy equipment operator,G,1,237310
+2023-05433-000,Easy,Building and grounds maintenance,G,1,237310
+2023-05433-000,Easy,Truck driver,G,1,237310
+2023-05433-000,Easy,Aggregates inspector,G,1,237310
+2023-05433-000,Easy,Project inspector,G,1,237310
+2023-05433-000,Easy,Mechanic,D,1,237310
+2023-05433-000,Easy,Sign technician,D,1,237310
+2023-05433-000,Easy,Heavy equipment operator,D,1,237310
+2023-05433-000,Easy,Senior heavy equipment operator,D,1,237310
+2023-05433-000,Easy,Building and grounds maintenance,D,1,237310
+2023-05433-000,Easy,Truck driver,D,1,237310
+2025-00926-000 ,Medium,Mechanic,W,1,237310
+2025-00926-000 ,Medium,Heavy equipment operator,W,1,237310
+2025-00926-000 ,Medium,Sign painter,W,1,237310
+2025-00926-000 ,Medium,Recycling center operator,W,1,562920
+2025-00926-000 ,Medium,Vehicle impoundment and tow truck drivers,W,1,488410
+2025-00926-000 ,Medium,Parking meter readers and enforcement,W,1,926120
+2025-00926-000 ,Medium,Maintenance technician,W,1,236220
+2025-00926-000 ,Medium,Security guard,G,1,561612
+2025-00926-000 ,Medium,Laborer,G,1,237310
+2025-00926-000 ,Medium,Mechanic,G,1,811111
+2025-00926-000 ,Medium,Recycling specialist,G,1,562920
+2025-00926-000 ,Medium,Sign erector/painter,G,1,488490
+2025-00926-000 ,Medium,Equipment operator,G,1,237310
+2025-00926-000 ,Medium,Horticulture worker,G,1,115112
+2025-00926-000 ,Medium,Maintenance technician,G,1,236220
+2025-00926-000 ,Medium,Painter,G,1,238320
+2025-00926-000 ,Medium,Plumber,G,1,238220
+2025-00926-000 ,Medium,Electrician,G,1,238210
+2025-00926-000 ,Medium,HVAC Mechanic,G,1,238220
+2025-00926-000 ,Medium,Carpenter,G,1,238350
+2025-00926-000 ,Medium,Truck driver,G,1,237310
+2025-00926-000 ,Medium,Parking enforcement,G,1,922190
+2025-00926-000 ,Medium,Management assistant,D,1,561210
+2025-00926-000,Medium,Security guard,D,1,
+2025-00926-000,Medium,Laborer,D,1,561210
+2025-00926-000,Medium,Packer,D,1,562111
+2025-00926-000,Medium,Recycling center specialist,D,1,561211
+2025-00926-000,Medium,Sign erector/painter,D,1,238990
+2025-00926-000,Medium,Sanitation tipper,D,1,562111
+2025-00926-000,Medium,Packer washout,D,1,
+2025-00926-000,Medium,Equipment operator,D,1,237310
+2025-00926-000,Medium,Solid waste equipment operator,D,1,562111
+2025-00926-000,Medium,Fleet service,D,1,561210
+2025-00926-000,Medium,Vehicle impoundment and tow truck drivers,D,1,488410;922120
+2025-00926-000,Medium,Horticulture worker,D,1,
+2025-00926-000,Medium,Plumber,D,1,561210
+2025-00926-000,Medium,Electrician,D,1,561210
+2019-04459-000,Medium,Mechanic,W,1,237310
+2019-04459-000,Medium,Heavy equipment operator,W,1,237310
+2019-04459-000,Medium,Asphalt layer,W,1,237310
+2019-04459-000,Medium,Sewer repair,W,1,237110
+2019-04459-000,Medium,Sewer equipment operator,W,1,237110
+2019-04459-000,Medium,Traffic control crew,W,1,561612
+2019-04459-000,Medium,Road inspector,G,1,237310
+2019-04459-000,Medium,Heavy equipment operator,G,1,237310
+2019-04459-000,Medium,Carpenter,G,1,238350
+2019-04459-000,Medium,Sewer repair,G,1,221320
+2019-04459-000,Medium,Motor sweeper,G,1,488490
+2019-04459-000,Medium,Truck driver,G,1,237310
+2019-04459-000,Medium,Traffic maintenance,G,1,237310
+2019-04459-000,Medium,Laborer,G,1,237310
+2019-04459-000,Medium,Road inspector,D,1,237310
+2019-04459-000,Medium,Heavy equipment operator,D,1,237310
+2019-04459-000,Medium,Senior heavy equipment operator,D,1,237310
+2019-04459-000,Medium,Tree climber,D,1,561730
+2019-04459-000,Medium,Carpenter,D,1,237310
+2019-04459-000,Medium,Sewer repair,D,1,221320
+2019-04459-000,Medium,Motor sweeper,D,1,237310
+2019-04459-000,Medium,Sewer equipment operator,D,1,221320
+2019-04459-000,Medium,Truck driver,D,1,237310
+2019-04459-000,Medium,Road maintenance,D,1,237310
+2019-04459-000,Medium,Sewer maintenance,D,1,221320
+2019-04459-000,Medium,Asphalt layer,D,1,237310
+2025-03668-000,Hard,Land surveyor,W,1,541370
+2025-03668-000,Hard,City auditor,W,1,921130
+2025-03668-000,Hard,Police lieutenant,W,1,922120
+2025-03668-000,Hard,Jail administration,W,1,922140
+2025-03668-000,Hard,Highway and road maintenance,W,1,237310
+2025-03668-000,Hard,Facilities management,W,1,561210
+2025-03668-000,Hard,Transportation engineer,W,1,541330
+2025-03668-000,Hard,Network administration,W,1,541512
+2025-03668-000,Hard,Building security,W,1,561612
+2025-03668-000,Hard,County attorney,W,1,922130
+2025-03668-000,Hard,Administrative support,G,1,561110
+2025-03668-000,Hard,City auditor,G,1,921130
+2025-03668-000,Hard,County assessor,G,1,921130
+2025-03668-000,Hard,County surveyor,G,1,924120
+2025-03668-000,Hard,Jail administration,G,1,922140
+2025-03668-000,Hard,Deputy sheriff,G,1,922120
+2025-03668-000,Hard,Highway and road maintenance,G,1,237310
+2025-03668-000,Hard,Environmental services,G,1,924120
+2025-03668-000,Hard,Network administration,G,1,541513
+2025-03668-000,Hard,Administrative support,D,1,922130
+2025-03668-000,Hard,Land commissioner,D,1,924120;541320
+2025-03668-000,Hard,City auditor,D,1,922130
+2025-03668-000,Hard,County assessor,D,1,922130
+2025-03668-000,Hard,Jail administration,D,1,922120
+2025-03668-000,Hard,Deputy sheriff,D,1,922120
+2025-03668-000,Hard,Highway and road maintenance,D,1,237310
+2025-03668-000,Hard,Environmental services,D,1,925120
+2025-03668-000,Hard,Equipment maintenance,D,1,237310
+2025-03668-000,Hard,Facilities management,D,1,561210
+2025-03668-000,Hard,County attorney,D,1,922130
+2025-03668-000,Hard,Risk manager,D,1,921130
+2025-03668-000,Hard,Transportation engineer,D,1,237310
+2025-03668-000,Hard,Network administration,D,1,541519
+2025-03419-000,Hard,Account clerk,W,1,921130
+2025-03419-000,Hard,Community safety officer,W,1,922120
+2025-03419-000,Hard,Customer service,W,1,921110;561422
+2025-03419-000,Hard,Building inspector,W,1,926150
+2025-03419-000,Hard,Groundskeeper,W,1,567130
+2025-03419-000,Hard,Building maintenance,W,1,236220
+2025-03419-000,Hard,Equipment mechanics,W,1,237310;237110
+2025-03419-000,Hard,Account clerk,G,1,921130
+2025-03419-000,Hard,Administrative support,G,1,561110
+2025-03419-000,Hard,Community safety officer,G,1,922120
+2025-03419-000,Hard,Building inspector,G,1,926150
+2025-03419-000,Hard,Groundskeeper,G,1,561730
+2025-03419-000,Hard,Building maintenance,G,1,236220
+2025-03419-000,Hard,Mechanic,G,1,811111
+2025-03419-000,Hard,Account clerk,D,1,922140
+2025-03419-000,Hard,Administrative support,D,1,921190
+2025-03419-000,Hard,Community safety officer,D,1,812910;561710
+2025-03419-000,Hard,Customer sales,D,1,921190
+2025-03419-000,Hard,Building inspector,D,1,541350;237990
+2025-03419-000,Hard,Groundskeeper,D,1,561730
+2025-03419-000,Hard,Maintenance technician,D,1,237990
+2023-01776-000,Hard,Building maintenance,W,1,236220
+2023-01776-000,Hard,Tax assessor,W,1,921130
+2023-01776-000,Hard,County attorney,W,1,922130
+2023-01776-000,Hard,Clerk of court,W,1,922110
+2023-01776-000,Hard,GIS technician,W,1,541370
+2023-01776-000,Hard,Juvenile detention,W,1,922140
+2023-01776-000,Hard,Road maintenance,W,1,237310
+2023-01776-000,Hard,Fire inspector,W,1,922160
+2023-01776-000,Hard,Community health agency support,W,1,923120
+2023-01776-000,Hard,Park ranger,W,1,712190
+2023-01776-000,Hard,Natural resource conservation,W,1,813312
+2023-01776-000,Hard,Police support,W,1,922120
+2023-01776-000,Hard,Industrial safety,W,1,922190
+2023-01776-000,Hard,Network administration,W,1,541512
+2023-01776-000,Hard,Probation office,W,1,922150
+2023-01776-000,Hard,Custodian,G,1,561720
+2023-01776-000,Hard,Account clerk,G,1,921130
+2023-01776-000,Hard,Court services,G,1,922110
+2023-01776-000,Hard,GIS technician,G,1,541370
+2023-01776-000,Hard,Engineering technician,G,1,541330
+2023-01776-000,Hard,Purchasing assistant,G,1,921190
+2023-01776-000,Hard,Facilities management,G,1,236220
+2023-01776-000,Hard,Road maintenance,G,1,237310
+2023-01776-000,Hard,Heavy equipment operator,G,1,237310
+2023-01776-000,Hard,Fire inspector,G,1,922160
+2023-01776-000,Hard,Substance abuse specialist,G,1,621420
+2023-01776-000,Hard,Tax assessor,G,1,921130
+2023-01776-000,Hard,Park ranger,G,1,924120
+2023-01776-000,Hard,Custodian,D,1,561210
+2023-01776-000,Hard,Account clerk,D,1,921130
+2023-01776-000,Hard,Receptionist,D,1,561210
+2023-01776-000,Hard,Clerk of court,D,1,922110
+2023-01776-000,Hard,Legal secretary,D,1,922130
+2023-01776-000,Hard,Permit technician,D,1,925120
+2023-01776-000,Hard,Legal assistant,D,1,925120
+2023-01776-000,Hard,Records assistant,D,1,561210
+2023-01776-000,Hard,Accounting technician,D,1,921130
+2023-01776-000,Hard,GIS technician,D,1,925120
+2023-01776-000,Hard,Jury coordinator,D,1,922110
+2023-01776-000,Hard,Maintenance technician,D,1,561210
+2023-01776-000,Hard,Accountant,D,1,922130
+2023-01776-000,Hard,Juvenile detention,D,1,922140
+2023-01776-000,Hard,Land surveyor,D,1,925120
+2023-01776-000,Hard,Parks attendant,D,1,712190
+2023-01776-000,Hard,Facilities management,D,1,561210
+2023-01776-000,Hard,Fire inspector,D,1,922160
+2023-01776-000,Hard,Park ranger,D,1,712190
+2023-01776-000,Hard,Public health informatics,D,1,923120
+2023-01776-000,Hard,Probation office,D,1,922110
+2023-01776-000,Hard,Road crew,D,1,237310
+2025-04120-000,Easy,Highway and road maintenance,W,2,237310
+2025-04120-000,Easy,Highway and road maintenance,G,2,237310
+2025-04120-000,Easy,Highway and road maintenance,D,2,237310
+2025-04184-000,Hard,Building inspector,W,2,541350
+2025-04184-000,Hard,Public finance,W,2,921130
+2025-04184-000,Hard,Urban planning and development,W,2,925120
+2025-04184-000,Hard,Public housing,W,2,925110
+2025-04184-000,Hard,Library,W,2,519120
+2025-04184-000,Hard,Fire protection,W,2,922160
+2025-04184-000,Hard,Parks and recreation,W,2,561730;713940
+2025-04184-000,Hard,Police protection,W,2,922120
+2025-04184-000,Hard,Water distribution,W,2,221310
+2025-04184-000,Hard,Engineering ,W,2,541330
+2025-04184-000,Hard,Sewer collection operations,W,2,221320
+2025-04184-000,Hard,Electric line maintenance,W,2,237130
+2025-04184-000,Hard,General non-specficic auto mechanics,W,2,811111
+2025-04184-000,Hard,General non-specific facilities maintenance,W,2,561210
+2025-04184-000,Hard,Cemetery,W,2,812220
+2025-04184-000,Hard,Tax assessor,G,2,921130
+2025-04184-000,Hard,Building inspector,G,2,541350
+2025-04184-000,Hard,Engineering,G,2,541330
+2025-04184-000,Hard,Human resources,G,2,921190
+2025-04184-000,Hard,Fire prevention,G,2,922160
+2025-04184-000,Hard,Park maintenance,G,2,561730
+2025-04184-000,Hard,Police protection,G,2,922120
+2025-04184-000,Hard,Water supply,G,2,221310
+2025-04184-000,Hard,Sewer collection operations,G,2,221320
+2025-04184-000,Hard,Auto maintenance,G,2,811111
+2025-04184-000,Hard,Building maintenance,G,2,561210
+2025-04184-000,Hard,Public finance,D,2,921130
+2025-04184-000,Hard,Engineering,D,2,541330
+2025-04184-000,Hard,Building inspector,D,2,541350
+2025-04184-000,Hard,Urban planning and development,D,2,925120
+2025-04184-000,Hard,Library,D,2,519120
+2025-04184-000,Hard,Fire protection,D,2,922160
+2025-04184-000,Hard,Parks and landscaping,D,2,561730
+2025-04184-000,Hard,Recreation programs,D,2,713940
+2025-04184-000,Hard,Police protection,D,2,922120
+2025-04184-000,Hard,Sewer maintenance,D,2,237110
+2025-04184-000,Hard,Water supply,D,2,221310
+2025-04184-000,Hard,Sewage treatment,D,2,221320
+2025-04184-000,Hard,Cemetery,D,2,812220
+2024-04451-000,Hard,Lifeguarding,W,2,713940
+2024-04451-000,Hard,General facility maintenance,W,2,561210
+2024-04451-000,Hard,Sewage related,W,2,221320
+2024-04451-000,Hard,Engineering,W,2,541330
+2024-04451-000,Hard,General non-specific mechanics,W,2,811310;811111
+2024-04451-000,Hard,Road related,W,2,237310
+2024-04451-000,Hard,Landscaping related,W,2,561730
+2024-04451-000,Hard,Water supply,W,2,21310
+2024-04451-000,Hard,Surveying,W,2,541370
+2024-04451-000,Hard,Grounds maintenance,G,2,561730
+2024-04451-000,Hard,Building maintenance,G,2,561210
+2024-04451-000,Hard,Golf course maintenance,G,2,713910
+2024-04451-000,Hard,Road maintenance,G,2,237310
+2024-04451-000,Hard,Recreation and lifeguards,G,2,713940
+2024-04451-000,Hard,Sewage treatment,G,2,221320
+2024-04451-000,Hard,Water supply,G,2,221310
+2024-04451-000,Hard,Surveying,G,2,541370
+2024-04451-000,Hard,Recreation,D,2,713940
+2024-04451-000,Hard,Sewer system,D,2,221320
+2024-04451-000,Hard,Groundskeeping,D,2,561730
+2024-04451-000,Hard,Road related,D,2,237310
+2024-04451-000,Hard,Conservation,D,2,924120
+2024-04451-000,Hard,Surveying,D,2,541370
+2024-04451-000,Hard,Sewer line maintenance,D,2,237110
+2024-04451-000,Hard,Machinery and equipment repair,D,2,811310
+2024-04451-000,Hard,Traffic signalers,D,2,561990
+2024-04451-000,Hard,Building maintenance,D,2,236220
