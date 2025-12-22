@@ -1,273 +1,273 @@
-﻿Contract,Difficulty,Service_Raw,Coder,Round,NAICS_Raw
-2023-03660-000,Easy,Mechanic,W,1,237310
-2023-03660-000,Easy,Truck driver,W,1,237310
-2023-03660-000,Easy,Heavy equipment operator,W,1,237310
-2023-03660-000,Easy,Service person,G,1,237310
-2023-03660-000,Easy,Truck driver,G,1,237310
-2023-03660-000,Easy,Maintenance technician,G,1,237310
-2023-03660-000,Easy,Traffic control crew,G,1,237310
-2023-03660-000,Easy,Traffic and vegetation control mechanic,G,1,237310
-2023-03660-000,Easy,Mechanic,G,1,237310
-2023-03660-000,Easy,Service person,D,1,237310
-2023-03660-000,Easy,Truck driver apprentice,D,1,237310
-2023-03660-000,Easy,Truck driver,D,1,237310
-2023-03660-000,Easy,Parts and maintenance technician,D,1,237310
-2023-03660-000,Easy,Traffic control crew,D,1,237310
-2023-03660-000,Easy,Motor equipment operator,D,1,237310
-2023-03660-000,Easy,Traffic and vegetation control,D,1,237310
-2023-03660-000,Easy,Mechanic,D,1,237310
-2023-03660-000,Easy,Mechanic II,D,1,237310
-2023-03660-000,Easy,Senior parts specialist,D,1,237310
-2023-03660-000,Easy,Lead person,D,1,237310
-2023-05433-000,Easy,Mechanic,W,1,237310
-2023-05433-000,Easy,Building maintenance,W,1,237310
-2023-05433-000,Easy,Heavy equipment operator,W,1,237310
-2023-05433-000,Easy,Mechanic,G,1,237310
-2023-05433-000,Easy,Sign technician,G,1,237310
-2023-05433-000,Easy,Heavy equipment operator,G,1,237310
-2023-05433-000,Easy,Building and grounds maintenance,G,1,237310
-2023-05433-000,Easy,Truck driver,G,1,237310
-2023-05433-000,Easy,Aggregates inspector,G,1,237310
-2023-05433-000,Easy,Project inspector,G,1,237310
-2023-05433-000,Easy,Mechanic,D,1,237310
-2023-05433-000,Easy,Sign technician,D,1,237310
-2023-05433-000,Easy,Heavy equipment operator,D,1,237310
-2023-05433-000,Easy,Senior heavy equipment operator,D,1,237310
-2023-05433-000,Easy,Building and grounds maintenance,D,1,237310
-2023-05433-000,Easy,Truck driver,D,1,237310
-2025-00926-000 ,Medium,Mechanic,W,1,237310
-2025-00926-000 ,Medium,Heavy equipment operator,W,1,237310
-2025-00926-000 ,Medium,Sign painter,W,1,237310
-2025-00926-000 ,Medium,Recycling center operator,W,1,562920
-2025-00926-000 ,Medium,Vehicle impoundment and tow truck drivers,W,1,488410
-2025-00926-000 ,Medium,Parking meter readers and enforcement,W,1,926120
-2025-00926-000 ,Medium,Maintenance technician,W,1,236220
-2025-00926-000 ,Medium,Security guard,G,1,561612
-2025-00926-000 ,Medium,Laborer,G,1,237310
-2025-00926-000 ,Medium,Mechanic,G,1,811111
-2025-00926-000 ,Medium,Recycling specialist,G,1,562920
-2025-00926-000 ,Medium,Sign erector/painter,G,1,488490
-2025-00926-000 ,Medium,Equipment operator,G,1,237310
-2025-00926-000 ,Medium,Horticulture worker,G,1,115112
-2025-00926-000 ,Medium,Maintenance technician,G,1,236220
-2025-00926-000 ,Medium,Painter,G,1,238320
-2025-00926-000 ,Medium,Plumber,G,1,238220
-2025-00926-000 ,Medium,Electrician,G,1,238210
-2025-00926-000 ,Medium,HVAC Mechanic,G,1,238220
-2025-00926-000 ,Medium,Carpenter,G,1,238350
-2025-00926-000 ,Medium,Truck driver,G,1,237310
-2025-00926-000 ,Medium,Parking enforcement,G,1,922190
-2025-00926-000 ,Medium,Management assistant,D,1,561210
-2025-00926-000,Medium,Security guard,D,1,
-2025-00926-000,Medium,Laborer,D,1,561210
-2025-00926-000,Medium,Packer,D,1,562111
-2025-00926-000,Medium,Recycling center specialist,D,1,561211
-2025-00926-000,Medium,Sign erector/painter,D,1,238990
-2025-00926-000,Medium,Sanitation tipper,D,1,562111
-2025-00926-000,Medium,Packer washout,D,1,
-2025-00926-000,Medium,Equipment operator,D,1,237310
-2025-00926-000,Medium,Solid waste equipment operator,D,1,562111
-2025-00926-000,Medium,Fleet service,D,1,561210
-2025-00926-000,Medium,Vehicle impoundment and tow truck drivers,D,1,488410;922120
-2025-00926-000,Medium,Horticulture worker,D,1,
-2025-00926-000,Medium,Plumber,D,1,561210
-2025-00926-000,Medium,Electrician,D,1,561210
-2019-04459-000,Medium,Mechanic,W,1,237310
-2019-04459-000,Medium,Heavy equipment operator,W,1,237310
-2019-04459-000,Medium,Asphalt layer,W,1,237310
-2019-04459-000,Medium,Sewer repair,W,1,237110
-2019-04459-000,Medium,Sewer equipment operator,W,1,237110
-2019-04459-000,Medium,Traffic control crew,W,1,561612
-2019-04459-000,Medium,Road inspector,G,1,237310
-2019-04459-000,Medium,Heavy equipment operator,G,1,237310
-2019-04459-000,Medium,Carpenter,G,1,238350
-2019-04459-000,Medium,Sewer repair,G,1,221320
-2019-04459-000,Medium,Motor sweeper,G,1,488490
-2019-04459-000,Medium,Truck driver,G,1,237310
-2019-04459-000,Medium,Traffic maintenance,G,1,237310
-2019-04459-000,Medium,Laborer,G,1,237310
-2019-04459-000,Medium,Road inspector,D,1,237310
-2019-04459-000,Medium,Heavy equipment operator,D,1,237310
-2019-04459-000,Medium,Senior heavy equipment operator,D,1,237310
-2019-04459-000,Medium,Tree climber,D,1,561730
-2019-04459-000,Medium,Carpenter,D,1,237310
-2019-04459-000,Medium,Sewer repair,D,1,221320
-2019-04459-000,Medium,Motor sweeper,D,1,237310
-2019-04459-000,Medium,Sewer equipment operator,D,1,221320
-2019-04459-000,Medium,Truck driver,D,1,237310
-2019-04459-000,Medium,Road maintenance,D,1,237310
-2019-04459-000,Medium,Sewer maintenance,D,1,221320
-2019-04459-000,Medium,Asphalt layer,D,1,237310
-2025-03668-000,Hard,Land surveyor,W,1,541370
-2025-03668-000,Hard,City auditor,W,1,921130
-2025-03668-000,Hard,Police lieutenant,W,1,922120
-2025-03668-000,Hard,Jail administration,W,1,922140
-2025-03668-000,Hard,Highway and road maintenance,W,1,237310
-2025-03668-000,Hard,Facilities management,W,1,561210
-2025-03668-000,Hard,Transportation engineer,W,1,541330
-2025-03668-000,Hard,Network administration,W,1,541512
-2025-03668-000,Hard,Building security,W,1,561612
-2025-03668-000,Hard,County attorney,W,1,922130
-2025-03668-000,Hard,Administrative support,G,1,561110
-2025-03668-000,Hard,City auditor,G,1,921130
-2025-03668-000,Hard,County assessor,G,1,921130
-2025-03668-000,Hard,County surveyor,G,1,924120
-2025-03668-000,Hard,Jail administration,G,1,922140
-2025-03668-000,Hard,Deputy sheriff,G,1,922120
-2025-03668-000,Hard,Highway and road maintenance,G,1,237310
-2025-03668-000,Hard,Environmental services,G,1,924120
-2025-03668-000,Hard,Network administration,G,1,541513
-2025-03668-000,Hard,Administrative support,D,1,922130
-2025-03668-000,Hard,Land commissioner,D,1,924120;541320
-2025-03668-000,Hard,City auditor,D,1,922130
-2025-03668-000,Hard,County assessor,D,1,922130
-2025-03668-000,Hard,Jail administration,D,1,922120
-2025-03668-000,Hard,Deputy sheriff,D,1,922120
-2025-03668-000,Hard,Highway and road maintenance,D,1,237310
-2025-03668-000,Hard,Environmental services,D,1,925120
-2025-03668-000,Hard,Equipment maintenance,D,1,237310
-2025-03668-000,Hard,Facilities management,D,1,561210
-2025-03668-000,Hard,County attorney,D,1,922130
-2025-03668-000,Hard,Risk manager,D,1,921130
-2025-03668-000,Hard,Transportation engineer,D,1,237310
-2025-03668-000,Hard,Network administration,D,1,541519
-2025-03419-000,Hard,Account clerk,W,1,921130
-2025-03419-000,Hard,Community safety officer,W,1,922120
-2025-03419-000,Hard,Customer service,W,1,921110;561422
-2025-03419-000,Hard,Building inspector,W,1,926150
-2025-03419-000,Hard,Groundskeeper,W,1,567130
-2025-03419-000,Hard,Building maintenance,W,1,236220
-2025-03419-000,Hard,Equipment mechanics,W,1,237310;237110
-2025-03419-000,Hard,Account clerk,G,1,921130
-2025-03419-000,Hard,Administrative support,G,1,561110
-2025-03419-000,Hard,Community safety officer,G,1,922120
-2025-03419-000,Hard,Building inspector,G,1,926150
-2025-03419-000,Hard,Groundskeeper,G,1,561730
-2025-03419-000,Hard,Building maintenance,G,1,236220
-2025-03419-000,Hard,Mechanic,G,1,811111
-2025-03419-000,Hard,Account clerk,D,1,922140
-2025-03419-000,Hard,Administrative support,D,1,921190
-2025-03419-000,Hard,Community safety officer,D,1,812910;561710
-2025-03419-000,Hard,Customer sales,D,1,921190
-2025-03419-000,Hard,Building inspector,D,1,541350;237990
-2025-03419-000,Hard,Groundskeeper,D,1,561730
-2025-03419-000,Hard,Maintenance technician,D,1,237990
-2023-01776-000,Hard,Building maintenance,W,1,236220
-2023-01776-000,Hard,Tax assessor,W,1,921130
-2023-01776-000,Hard,County attorney,W,1,922130
-2023-01776-000,Hard,Clerk of court,W,1,922110
-2023-01776-000,Hard,GIS technician,W,1,541370
-2023-01776-000,Hard,Juvenile detention,W,1,922140
-2023-01776-000,Hard,Road maintenance,W,1,237310
-2023-01776-000,Hard,Fire inspector,W,1,922160
-2023-01776-000,Hard,Community health agency support,W,1,923120
-2023-01776-000,Hard,Park ranger,W,1,712190
-2023-01776-000,Hard,Natural resource conservation,W,1,813312
-2023-01776-000,Hard,Police support,W,1,922120
-2023-01776-000,Hard,Industrial safety,W,1,922190
-2023-01776-000,Hard,Network administration,W,1,541512
-2023-01776-000,Hard,Probation office,W,1,922150
-2023-01776-000,Hard,Custodian,G,1,561720
-2023-01776-000,Hard,Account clerk,G,1,921130
-2023-01776-000,Hard,Court services,G,1,922110
-2023-01776-000,Hard,GIS technician,G,1,541370
-2023-01776-000,Hard,Engineering technician,G,1,541330
-2023-01776-000,Hard,Purchasing assistant,G,1,921190
-2023-01776-000,Hard,Facilities management,G,1,236220
-2023-01776-000,Hard,Road maintenance,G,1,237310
-2023-01776-000,Hard,Heavy equipment operator,G,1,237310
-2023-01776-000,Hard,Fire inspector,G,1,922160
-2023-01776-000,Hard,Substance abuse specialist,G,1,621420
-2023-01776-000,Hard,Tax assessor,G,1,921130
-2023-01776-000,Hard,Park ranger,G,1,924120
-2023-01776-000,Hard,Custodian,D,1,561210
-2023-01776-000,Hard,Account clerk,D,1,921130
-2023-01776-000,Hard,Receptionist,D,1,561210
-2023-01776-000,Hard,Clerk of court,D,1,922110
-2023-01776-000,Hard,Legal secretary,D,1,922130
-2023-01776-000,Hard,Permit technician,D,1,925120
-2023-01776-000,Hard,Legal assistant,D,1,925120
-2023-01776-000,Hard,Records assistant,D,1,561210
-2023-01776-000,Hard,Accounting technician,D,1,921130
-2023-01776-000,Hard,GIS technician,D,1,925120
-2023-01776-000,Hard,Jury coordinator,D,1,922110
-2023-01776-000,Hard,Maintenance technician,D,1,561210
-2023-01776-000,Hard,Accountant,D,1,922130
-2023-01776-000,Hard,Juvenile detention,D,1,922140
-2023-01776-000,Hard,Land surveyor,D,1,925120
-2023-01776-000,Hard,Parks attendant,D,1,712190
-2023-01776-000,Hard,Facilities management,D,1,561210
-2023-01776-000,Hard,Fire inspector,D,1,922160
-2023-01776-000,Hard,Park ranger,D,1,712190
-2023-01776-000,Hard,Public health informatics,D,1,923120
-2023-01776-000,Hard,Probation office,D,1,922110
-2023-01776-000,Hard,Road crew,D,1,237310
-2025-04120-000,Easy,Highway and road maintenance,W,2,237310
-2025-04120-000,Easy,Highway and road maintenance,G,2,237310
-2025-04120-000,Easy,Highway and road maintenance,D,2,237310
-2025-04184-000,Hard,Building inspector,W,2,541350
-2025-04184-000,Hard,Public finance,W,2,921130
-2025-04184-000,Hard,Urban planning and development,W,2,925120
-2025-04184-000,Hard,Public housing,W,2,925110
-2025-04184-000,Hard,Library,W,2,519120
-2025-04184-000,Hard,Fire protection,W,2,922160
-2025-04184-000,Hard,Parks and recreation,W,2,561730;713940
-2025-04184-000,Hard,Police protection,W,2,922120
-2025-04184-000,Hard,Water distribution,W,2,221310
-2025-04184-000,Hard,Engineering ,W,2,541330
-2025-04184-000,Hard,Sewer collection operations,W,2,221320
-2025-04184-000,Hard,Electric line maintenance,W,2,237130
-2025-04184-000,Hard,General non-specficic auto mechanics,W,2,811111
-2025-04184-000,Hard,General non-specific facilities maintenance,W,2,561210
-2025-04184-000,Hard,Cemetery,W,2,812220
-2025-04184-000,Hard,Tax assessor,G,2,921130
-2025-04184-000,Hard,Building inspector,G,2,541350
-2025-04184-000,Hard,Engineering,G,2,541330
-2025-04184-000,Hard,Human resources,G,2,921190
-2025-04184-000,Hard,Fire prevention,G,2,922160
-2025-04184-000,Hard,Park maintenance,G,2,561730
-2025-04184-000,Hard,Police protection,G,2,922120
-2025-04184-000,Hard,Water supply,G,2,221310
-2025-04184-000,Hard,Sewer collection operations,G,2,221320
-2025-04184-000,Hard,Auto maintenance,G,2,811111
-2025-04184-000,Hard,Building maintenance,G,2,561210
-2025-04184-000,Hard,Public finance,D,2,921130
-2025-04184-000,Hard,Engineering,D,2,541330
-2025-04184-000,Hard,Building inspector,D,2,541350
-2025-04184-000,Hard,Urban planning and development,D,2,925120
-2025-04184-000,Hard,Library,D,2,519120
-2025-04184-000,Hard,Fire protection,D,2,922160
-2025-04184-000,Hard,Parks and landscaping,D,2,561730
-2025-04184-000,Hard,Recreation programs,D,2,713940
-2025-04184-000,Hard,Police protection,D,2,922120
-2025-04184-000,Hard,Sewer maintenance,D,2,237110
-2025-04184-000,Hard,Water supply,D,2,221310
-2025-04184-000,Hard,Sewage treatment,D,2,221320
-2025-04184-000,Hard,Cemetery,D,2,812220
-2024-04451-000,Hard,Lifeguarding,W,2,713940
-2024-04451-000,Hard,General facility maintenance,W,2,561210
-2024-04451-000,Hard,Sewage related,W,2,221320
-2024-04451-000,Hard,Engineering,W,2,541330
-2024-04451-000,Hard,General non-specific mechanics,W,2,811310;811111
-2024-04451-000,Hard,Road related,W,2,237310
-2024-04451-000,Hard,Landscaping related,W,2,561730
-2024-04451-000,Hard,Water supply,W,2,21310
-2024-04451-000,Hard,Surveying,W,2,541370
-2024-04451-000,Hard,Grounds maintenance,G,2,561730
-2024-04451-000,Hard,Building maintenance,G,2,561210
-2024-04451-000,Hard,Golf course maintenance,G,2,713910
-2024-04451-000,Hard,Road maintenance,G,2,237310
-2024-04451-000,Hard,Recreation and lifeguards,G,2,713940
-2024-04451-000,Hard,Sewage treatment,G,2,221320
-2024-04451-000,Hard,Water supply,G,2,221310
-2024-04451-000,Hard,Surveying,G,2,541370
-2024-04451-000,Hard,Recreation,D,2,713940
-2024-04451-000,Hard,Sewer system,D,2,221320
-2024-04451-000,Hard,Groundskeeping,D,2,561730
-2024-04451-000,Hard,Road related,D,2,237310
-2024-04451-000,Hard,Conservation,D,2,924120
-2024-04451-000,Hard,Surveying,D,2,541370
-2024-04451-000,Hard,Sewer line maintenance,D,2,237110
-2024-04451-000,Hard,Machinery and equipment repair,D,2,811310
-2024-04451-000,Hard,Traffic signalers,D,2,561990
-2024-04451-000,Hard,Building maintenance,D,2,236220
+,Contract,Difficulty,Service_Raw,Coder,Round,NAICS_Raw,prefix,has_naics,is_multicode,lookup_key
+0,2023-03660-000,Easy,Mechanic,W,1,237310,23,True,False,2023-03660-000|Mechanic
+1,2023-03660-000,Easy,Truck driver,W,1,237310,23,True,False,2023-03660-000|Truck driver
+2,2023-03660-000,Easy,Heavy equipment operator,W,1,237310,23,True,False,2023-03660-000|Heavy equipment operator
+3,2023-03660-000,Easy,Service person,G,1,237310,23,True,False,2023-03660-000|Service person
+4,2023-03660-000,Easy,Truck driver,G,1,237310,23,True,False,2023-03660-000|Truck driver
+5,2023-03660-000,Easy,Maintenance technician,G,1,237310,23,True,False,2023-03660-000|Maintenance technician
+6,2023-03660-000,Easy,Traffic control crew,G,1,237310,23,True,False,2023-03660-000|Traffic control crew
+7,2023-03660-000,Easy,Traffic and vegetation control mechanic,G,1,237310,23,True,False,2023-03660-000|Traffic and vegetation control mechanic
+8,2023-03660-000,Easy,Mechanic,G,1,237310,23,True,False,2023-03660-000|Mechanic
+9,2023-03660-000,Easy,Service person,D,1,237310,23,True,False,2023-03660-000|Service person
+10,2023-03660-000,Easy,Truck driver apprentice,D,1,237310,23,True,False,2023-03660-000|Truck driver apprentice
+11,2023-03660-000,Easy,Truck driver,D,1,237310,23,True,False,2023-03660-000|Truck driver
+12,2023-03660-000,Easy,Parts and maintenance technician,D,1,237310,23,True,False,2023-03660-000|Parts and maintenance technician
+13,2023-03660-000,Easy,Traffic control crew,D,1,237310,23,True,False,2023-03660-000|Traffic control crew
+14,2023-03660-000,Easy,Motor equipment operator,D,1,237310,23,True,False,2023-03660-000|Motor equipment operator
+15,2023-03660-000,Easy,Traffic and vegetation control,D,1,237310,23,True,False,2023-03660-000|Traffic and vegetation control
+16,2023-03660-000,Easy,Mechanic,D,1,237310,23,True,False,2023-03660-000|Mechanic
+17,2023-03660-000,Easy,Mechanic II,D,1,237310,23,True,False,2023-03660-000|Mechanic II
+18,2023-03660-000,Easy,Senior parts specialist,D,1,237310,23,True,False,2023-03660-000|Senior parts specialist
+19,2023-03660-000,Easy,Lead person,D,1,237310,23,True,False,2023-03660-000|Lead person
+20,2023-05433-000,Easy,Mechanic,W,1,237310,23,True,False,2023-05433-000|Mechanic
+21,2023-05433-000,Easy,Building maintenance,W,1,237310,23,True,False,2023-05433-000|Building maintenance
+22,2023-05433-000,Easy,Heavy equipment operator,W,1,237310,23,True,False,2023-05433-000|Heavy equipment operator
+23,2023-05433-000,Easy,Mechanic,G,1,237310,23,True,False,2023-05433-000|Mechanic
+24,2023-05433-000,Easy,Sign technician,G,1,237310,23,True,False,2023-05433-000|Sign technician
+25,2023-05433-000,Easy,Heavy equipment operator,G,1,237310,23,True,False,2023-05433-000|Heavy equipment operator
+26,2023-05433-000,Easy,Building and grounds maintenance,G,1,237310,23,True,False,2023-05433-000|Building and grounds maintenance
+27,2023-05433-000,Easy,Truck driver,G,1,237310,23,True,False,2023-05433-000|Truck driver
+28,2023-05433-000,Easy,Aggregates inspector,G,1,237310,23,True,False,2023-05433-000|Aggregates inspector
+29,2023-05433-000,Easy,Project inspector,G,1,237310,23,True,False,2023-05433-000|Project inspector
+30,2023-05433-000,Easy,Mechanic,D,1,237310,23,True,False,2023-05433-000|Mechanic
+31,2023-05433-000,Easy,Sign technician,D,1,237310,23,True,False,2023-05433-000|Sign technician
+32,2023-05433-000,Easy,Heavy equipment operator,D,1,237310,23,True,False,2023-05433-000|Heavy equipment operator
+33,2023-05433-000,Easy,Senior heavy equipment operator,D,1,237310,23,True,False,2023-05433-000|Senior heavy equipment operator
+34,2023-05433-000,Easy,Building and grounds maintenance,D,1,237310,23,True,False,2023-05433-000|Building and grounds maintenance
+35,2023-05433-000,Easy,Truck driver,D,1,237310,23,True,False,2023-05433-000|Truck driver
+36,2025-00926-000,Medium,Mechanic,W,1,237310,23,True,False,2025-00926-000|Mechanic
+37,2025-00926-000,Medium,Heavy equipment operator,W,1,237310,23,True,False,2025-00926-000|Heavy equipment operator
+38,2025-00926-000,Medium,Sign painter,W,1,237310,23,True,False,2025-00926-000|Sign painter
+39,2025-00926-000,Medium,Recycling center operator,W,1,562920,56,True,False,2025-00926-000|Recycling center operator
+40,2025-00926-000,Medium,Vehicle impoundment and tow truck drivers,W,1,488410,48,True,False,2025-00926-000|Vehicle impoundment and tow truck drivers
+41,2025-00926-000,Medium,Parking meter readers and enforcement,W,1,926120,92,True,False,2025-00926-000|Parking meter readers and enforcement
+42,2025-00926-000,Medium,Maintenance technician,W,1,236220,23,True,False,2025-00926-000|Maintenance technician
+43,2025-00926-000,Medium,Security guard,G,1,561612,56,True,False,2025-00926-000|Security guard
+44,2025-00926-000,Medium,Laborer,G,1,237310,23,True,False,2025-00926-000|Laborer
+45,2025-00926-000,Medium,Mechanic,G,1,811111,81,True,False,2025-00926-000|Mechanic
+46,2025-00926-000,Medium,Recycling specialist,G,1,562920,56,True,False,2025-00926-000|Recycling specialist
+47,2025-00926-000,Medium,Sign erector/painter,G,1,488490,48,True,False,2025-00926-000|Sign erector/painter
+48,2025-00926-000,Medium,Equipment operator,G,1,237310,23,True,False,2025-00926-000|Equipment operator
+49,2025-00926-000,Medium,Horticulture worker,G,1,115112,11,True,False,2025-00926-000|Horticulture worker
+50,2025-00926-000,Medium,Maintenance technician,G,1,236220,23,True,False,2025-00926-000|Maintenance technician
+51,2025-00926-000,Medium,Painter,G,1,238320,23,True,False,2025-00926-000|Painter
+52,2025-00926-000,Medium,Plumber,G,1,238220,23,True,False,2025-00926-000|Plumber
+53,2025-00926-000,Medium,Electrician,G,1,238210,23,True,False,2025-00926-000|Electrician
+54,2025-00926-000,Medium,HVAC Mechanic,G,1,238220,23,True,False,2025-00926-000|HVAC Mechanic
+55,2025-00926-000,Medium,Carpenter,G,1,238350,23,True,False,2025-00926-000|Carpenter
+56,2025-00926-000,Medium,Truck driver,G,1,237310,23,True,False,2025-00926-000|Truck driver
+57,2025-00926-000,Medium,Parking enforcement,G,1,922190,92,True,False,2025-00926-000|Parking enforcement
+58,2025-00926-000,Medium,Management assistant,D,1,561210,56,True,False,2025-00926-000|Management assistant
+59,2025-00926-000,Medium,Security guard,D,1,,,False,False,2025-00926-000|Security guard
+60,2025-00926-000,Medium,Laborer,D,1,561210,56,True,False,2025-00926-000|Laborer
+61,2025-00926-000,Medium,Packer,D,1,562111,56,True,False,2025-00926-000|Packer
+62,2025-00926-000,Medium,Recycling center specialist,D,1,561211,56,True,False,2025-00926-000|Recycling center specialist
+63,2025-00926-000,Medium,Sign erector/painter,D,1,238990,23,True,False,2025-00926-000|Sign erector/painter
+64,2025-00926-000,Medium,Sanitation tipper,D,1,562111,56,True,False,2025-00926-000|Sanitation tipper
+65,2025-00926-000,Medium,Packer washout,D,1,,,False,False,2025-00926-000|Packer washout
+66,2025-00926-000,Medium,Equipment operator,D,1,237310,23,True,False,2025-00926-000|Equipment operator
+67,2025-00926-000,Medium,Solid waste equipment operator,D,1,562111,56,True,False,2025-00926-000|Solid waste equipment operator
+68,2025-00926-000,Medium,Fleet service,D,1,561210,56,True,False,2025-00926-000|Fleet service
+69,2025-00926-000,Medium,Vehicle impoundment and tow truck drivers,D,1,488410;922120,48,True,True,2025-00926-000|Vehicle impoundment and tow truck drivers
+70,2025-00926-000,Medium,Horticulture worker,D,1,,,False,False,2025-00926-000|Horticulture worker
+71,2025-00926-000,Medium,Plumber,D,1,561210,56,True,False,2025-00926-000|Plumber
+72,2025-00926-000,Medium,Electrician,D,1,561210,56,True,False,2025-00926-000|Electrician
+73,2019-04459-000,Medium,Mechanic,W,1,237310,23,True,False,2019-04459-000|Mechanic
+74,2019-04459-000,Medium,Heavy equipment operator,W,1,237310,23,True,False,2019-04459-000|Heavy equipment operator
+75,2019-04459-000,Medium,Asphalt layer,W,1,237310,23,True,False,2019-04459-000|Asphalt layer
+76,2019-04459-000,Medium,Sewer repair,W,1,237110,23,True,False,2019-04459-000|Sewer repair
+77,2019-04459-000,Medium,Sewer equipment operator,W,1,237110,23,True,False,2019-04459-000|Sewer equipment operator
+78,2019-04459-000,Medium,Traffic control crew,W,1,561612,56,True,False,2019-04459-000|Traffic control crew
+79,2019-04459-000,Medium,Road inspector,G,1,237310,23,True,False,2019-04459-000|Road inspector
+80,2019-04459-000,Medium,Heavy equipment operator,G,1,237310,23,True,False,2019-04459-000|Heavy equipment operator
+81,2019-04459-000,Medium,Carpenter,G,1,238350,23,True,False,2019-04459-000|Carpenter
+82,2019-04459-000,Medium,Sewer repair,G,1,221320,22,True,False,2019-04459-000|Sewer repair
+83,2019-04459-000,Medium,Motor sweeper,G,1,488490,48,True,False,2019-04459-000|Motor sweeper
+84,2019-04459-000,Medium,Truck driver,G,1,237310,23,True,False,2019-04459-000|Truck driver
+85,2019-04459-000,Medium,Traffic maintenance,G,1,237310,23,True,False,2019-04459-000|Traffic maintenance
+86,2019-04459-000,Medium,Laborer,G,1,237310,23,True,False,2019-04459-000|Laborer
+87,2019-04459-000,Medium,Road inspector,D,1,237310,23,True,False,2019-04459-000|Road inspector
+88,2019-04459-000,Medium,Heavy equipment operator,D,1,237310,23,True,False,2019-04459-000|Heavy equipment operator
+89,2019-04459-000,Medium,Senior heavy equipment operator,D,1,237310,23,True,False,2019-04459-000|Senior heavy equipment operator
+90,2019-04459-000,Medium,Tree climber,D,1,561730,56,True,False,2019-04459-000|Tree climber
+91,2019-04459-000,Medium,Carpenter,D,1,237310,23,True,False,2019-04459-000|Carpenter
+92,2019-04459-000,Medium,Sewer repair,D,1,221320,22,True,False,2019-04459-000|Sewer repair
+93,2019-04459-000,Medium,Motor sweeper,D,1,237310,23,True,False,2019-04459-000|Motor sweeper
+94,2019-04459-000,Medium,Sewer equipment operator,D,1,221320,22,True,False,2019-04459-000|Sewer equipment operator
+95,2019-04459-000,Medium,Truck driver,D,1,237310,23,True,False,2019-04459-000|Truck driver
+96,2019-04459-000,Medium,Road maintenance,D,1,237310,23,True,False,2019-04459-000|Road maintenance
+97,2019-04459-000,Medium,Sewer maintenance,D,1,221320,22,True,False,2019-04459-000|Sewer maintenance
+98,2019-04459-000,Medium,Asphalt layer,D,1,237310,23,True,False,2019-04459-000|Asphalt layer
+99,2025-03668-000,Hard,Land surveyor,W,1,541370,54,True,False,2025-03668-000|Land surveyor
+100,2025-03668-000,Hard,City auditor,W,1,921130,92,True,False,2025-03668-000|City auditor
+101,2025-03668-000,Hard,Police lieutenant,W,1,922120,92,True,False,2025-03668-000|Police lieutenant
+102,2025-03668-000,Hard,Jail administration,W,1,922140,92,True,False,2025-03668-000|Jail administration
+103,2025-03668-000,Hard,Highway and road maintenance,W,1,237310,23,True,False,2025-03668-000|Highway and road maintenance
+104,2025-03668-000,Hard,Facilities management,W,1,561210,56,True,False,2025-03668-000|Facilities management
+105,2025-03668-000,Hard,Transportation engineer,W,1,541330,54,True,False,2025-03668-000|Transportation engineer
+106,2025-03668-000,Hard,Network administration,W,1,541512,54,True,False,2025-03668-000|Network administration
+107,2025-03668-000,Hard,Building security,W,1,561612,56,True,False,2025-03668-000|Building security
+108,2025-03668-000,Hard,County attorney,W,1,922130,92,True,False,2025-03668-000|County attorney
+109,2025-03668-000,Hard,Administrative support,G,1,561110,56,True,False,2025-03668-000|Administrative support
+110,2025-03668-000,Hard,City auditor,G,1,921130,92,True,False,2025-03668-000|City auditor
+111,2025-03668-000,Hard,County assessor,G,1,921130,92,True,False,2025-03668-000|County assessor
+112,2025-03668-000,Hard,County surveyor,G,1,924120,92,True,False,2025-03668-000|County surveyor
+113,2025-03668-000,Hard,Jail administration,G,1,922140,92,True,False,2025-03668-000|Jail administration
+114,2025-03668-000,Hard,Deputy sheriff,G,1,922120,92,True,False,2025-03668-000|Deputy sheriff
+115,2025-03668-000,Hard,Highway and road maintenance,G,1,237310,23,True,False,2025-03668-000|Highway and road maintenance
+116,2025-03668-000,Hard,Environmental services,G,1,924120,92,True,False,2025-03668-000|Environmental services
+117,2025-03668-000,Hard,Network administration,G,1,541513,54,True,False,2025-03668-000|Network administration
+118,2025-03668-000,Hard,Administrative support,D,1,922130,92,True,False,2025-03668-000|Administrative support
+119,2025-03668-000,Hard,Land commissioner,D,1,924120;541320,92,True,True,2025-03668-000|Land commissioner
+120,2025-03668-000,Hard,City auditor,D,1,922130,92,True,False,2025-03668-000|City auditor
+121,2025-03668-000,Hard,County assessor,D,1,922130,92,True,False,2025-03668-000|County assessor
+122,2025-03668-000,Hard,Jail administration,D,1,922120,92,True,False,2025-03668-000|Jail administration
+123,2025-03668-000,Hard,Deputy sheriff,D,1,922120,92,True,False,2025-03668-000|Deputy sheriff
+124,2025-03668-000,Hard,Highway and road maintenance,D,1,237310,23,True,False,2025-03668-000|Highway and road maintenance
+125,2025-03668-000,Hard,Environmental services,D,1,925120,92,True,False,2025-03668-000|Environmental services
+126,2025-03668-000,Hard,Equipment maintenance,D,1,237310,23,True,False,2025-03668-000|Equipment maintenance
+127,2025-03668-000,Hard,Facilities management,D,1,561210,56,True,False,2025-03668-000|Facilities management
+128,2025-03668-000,Hard,County attorney,D,1,922130,92,True,False,2025-03668-000|County attorney
+129,2025-03668-000,Hard,Risk manager,D,1,921130,92,True,False,2025-03668-000|Risk manager
+130,2025-03668-000,Hard,Transportation engineer,D,1,237310,23,True,False,2025-03668-000|Transportation engineer
+131,2025-03668-000,Hard,Network administration,D,1,541519,54,True,False,2025-03668-000|Network administration
+132,2025-03419-000,Hard,Account clerk,W,1,921130,92,True,False,2025-03419-000|Account clerk
+133,2025-03419-000,Hard,Community safety officer,W,1,922120,92,True,False,2025-03419-000|Community safety officer
+134,2025-03419-000,Hard,Customer service,W,1,921110;561422,92,True,True,2025-03419-000|Customer service
+135,2025-03419-000,Hard,Building inspector,W,1,926150,92,True,False,2025-03419-000|Building inspector
+136,2025-03419-000,Hard,Groundskeeper,W,1,567130,56,True,False,2025-03419-000|Groundskeeper
+137,2025-03419-000,Hard,Building maintenance,W,1,236220,23,True,False,2025-03419-000|Building maintenance
+138,2025-03419-000,Hard,Equipment mechanics,W,1,237310;237110,23,True,True,2025-03419-000|Equipment mechanics
+139,2025-03419-000,Hard,Account clerk,G,1,921130,92,True,False,2025-03419-000|Account clerk
+140,2025-03419-000,Hard,Administrative support,G,1,561110,56,True,False,2025-03419-000|Administrative support
+141,2025-03419-000,Hard,Community safety officer,G,1,922120,92,True,False,2025-03419-000|Community safety officer
+142,2025-03419-000,Hard,Building inspector,G,1,926150,92,True,False,2025-03419-000|Building inspector
+143,2025-03419-000,Hard,Groundskeeper,G,1,561730,56,True,False,2025-03419-000|Groundskeeper
+144,2025-03419-000,Hard,Building maintenance,G,1,236220,23,True,False,2025-03419-000|Building maintenance
+145,2025-03419-000,Hard,Mechanic,G,1,811111,81,True,False,2025-03419-000|Mechanic
+146,2025-03419-000,Hard,Account clerk,D,1,922140,92,True,False,2025-03419-000|Account clerk
+147,2025-03419-000,Hard,Administrative support,D,1,921190,92,True,False,2025-03419-000|Administrative support
+148,2025-03419-000,Hard,Community safety officer,D,1,812910;561710,81,True,True,2025-03419-000|Community safety officer
+149,2025-03419-000,Hard,Customer sales,D,1,921190,92,True,False,2025-03419-000|Customer sales
+150,2025-03419-000,Hard,Building inspector,D,1,541350;237990,54,True,True,2025-03419-000|Building inspector
+151,2025-03419-000,Hard,Groundskeeper,D,1,561730,56,True,False,2025-03419-000|Groundskeeper
+152,2025-03419-000,Hard,Maintenance technician,D,1,237990,23,True,False,2025-03419-000|Maintenance technician
+153,2023-01776-000,Hard,Building maintenance,W,1,236220,23,True,False,2023-01776-000|Building maintenance
+154,2023-01776-000,Hard,Tax assessor,W,1,921130,92,True,False,2023-01776-000|Tax assessor
+155,2023-01776-000,Hard,County attorney,W,1,922130,92,True,False,2023-01776-000|County attorney
+156,2023-01776-000,Hard,Clerk of court,W,1,922110,92,True,False,2023-01776-000|Clerk of court
+157,2023-01776-000,Hard,GIS technician,W,1,541370,54,True,False,2023-01776-000|GIS technician
+158,2023-01776-000,Hard,Juvenile detention,W,1,922140,92,True,False,2023-01776-000|Juvenile detention
+159,2023-01776-000,Hard,Road maintenance,W,1,237310,23,True,False,2023-01776-000|Road maintenance
+160,2023-01776-000,Hard,Fire inspector,W,1,922160,92,True,False,2023-01776-000|Fire inspector
+161,2023-01776-000,Hard,Community health agency support,W,1,923120,92,True,False,2023-01776-000|Community health agency support
+162,2023-01776-000,Hard,Park ranger,W,1,712190,71,True,False,2023-01776-000|Park ranger
+163,2023-01776-000,Hard,Natural resource conservation,W,1,813312,81,True,False,2023-01776-000|Natural resource conservation
+164,2023-01776-000,Hard,Police support,W,1,922120,92,True,False,2023-01776-000|Police support
+165,2023-01776-000,Hard,Industrial safety,W,1,922190,92,True,False,2023-01776-000|Industrial safety
+166,2023-01776-000,Hard,Network administration,W,1,541512,54,True,False,2023-01776-000|Network administration
+167,2023-01776-000,Hard,Probation office,W,1,922150,92,True,False,2023-01776-000|Probation office
+168,2023-01776-000,Hard,Custodian,G,1,561720,56,True,False,2023-01776-000|Custodian
+169,2023-01776-000,Hard,Account clerk,G,1,921130,92,True,False,2023-01776-000|Account clerk
+170,2023-01776-000,Hard,Court services,G,1,922110,92,True,False,2023-01776-000|Court services
+171,2023-01776-000,Hard,GIS technician,G,1,541370,54,True,False,2023-01776-000|GIS technician
+172,2023-01776-000,Hard,Engineering technician,G,1,541330,54,True,False,2023-01776-000|Engineering technician
+173,2023-01776-000,Hard,Purchasing assistant,G,1,921190,92,True,False,2023-01776-000|Purchasing assistant
+174,2023-01776-000,Hard,Facilities management,G,1,236220,23,True,False,2023-01776-000|Facilities management
+175,2023-01776-000,Hard,Road maintenance,G,1,237310,23,True,False,2023-01776-000|Road maintenance
+176,2023-01776-000,Hard,Heavy equipment operator,G,1,237310,23,True,False,2023-01776-000|Heavy equipment operator
+177,2023-01776-000,Hard,Fire inspector,G,1,922160,92,True,False,2023-01776-000|Fire inspector
+178,2023-01776-000,Hard,Substance abuse specialist,G,1,621420,62,True,False,2023-01776-000|Substance abuse specialist
+179,2023-01776-000,Hard,Tax assessor,G,1,921130,92,True,False,2023-01776-000|Tax assessor
+180,2023-01776-000,Hard,Park ranger,G,1,924120,92,True,False,2023-01776-000|Park ranger
+181,2023-01776-000,Hard,Custodian,D,1,561210,56,True,False,2023-01776-000|Custodian
+182,2023-01776-000,Hard,Account clerk,D,1,921130,92,True,False,2023-01776-000|Account clerk
+183,2023-01776-000,Hard,Receptionist,D,1,561210,56,True,False,2023-01776-000|Receptionist
+184,2023-01776-000,Hard,Clerk of court,D,1,922110,92,True,False,2023-01776-000|Clerk of court
+185,2023-01776-000,Hard,Legal secretary,D,1,922130,92,True,False,2023-01776-000|Legal secretary
+186,2023-01776-000,Hard,Permit technician,D,1,925120,92,True,False,2023-01776-000|Permit technician
+187,2023-01776-000,Hard,Legal assistant,D,1,925120,92,True,False,2023-01776-000|Legal assistant
+188,2023-01776-000,Hard,Records assistant,D,1,561210,56,True,False,2023-01776-000|Records assistant
+189,2023-01776-000,Hard,Accounting technician,D,1,921130,92,True,False,2023-01776-000|Accounting technician
+190,2023-01776-000,Hard,GIS technician,D,1,925120,92,True,False,2023-01776-000|GIS technician
+191,2023-01776-000,Hard,Jury coordinator,D,1,922110,92,True,False,2023-01776-000|Jury coordinator
+192,2023-01776-000,Hard,Maintenance technician,D,1,561210,56,True,False,2023-01776-000|Maintenance technician
+193,2023-01776-000,Hard,Accountant,D,1,922130,92,True,False,2023-01776-000|Accountant
+194,2023-01776-000,Hard,Juvenile detention,D,1,922140,92,True,False,2023-01776-000|Juvenile detention
+195,2023-01776-000,Hard,Land surveyor,D,1,925120,92,True,False,2023-01776-000|Land surveyor
+196,2023-01776-000,Hard,Parks attendant,D,1,712190,71,True,False,2023-01776-000|Parks attendant
+197,2023-01776-000,Hard,Facilities management,D,1,561210,56,True,False,2023-01776-000|Facilities management
+198,2023-01776-000,Hard,Fire inspector,D,1,922160,92,True,False,2023-01776-000|Fire inspector
+199,2023-01776-000,Hard,Park ranger,D,1,712190,71,True,False,2023-01776-000|Park ranger
+200,2023-01776-000,Hard,Public health informatics,D,1,923120,92,True,False,2023-01776-000|Public health informatics
+201,2023-01776-000,Hard,Probation office,D,1,922110,92,True,False,2023-01776-000|Probation office
+202,2023-01776-000,Hard,Road crew,D,1,237310,23,True,False,2023-01776-000|Road crew
+203,2025-04120-000,Easy,Highway and road maintenance,W,2,237310,23,True,False,2025-04120-000|Highway and road maintenance
+204,2025-04120-000,Easy,Highway and road maintenance,G,2,237310,23,True,False,2025-04120-000|Highway and road maintenance
+205,2025-04120-000,Easy,Highway and road maintenance,D,2,237310,23,True,False,2025-04120-000|Highway and road maintenance
+206,2025-04184-000,Hard,Building inspector,W,2,541350,54,True,False,2025-04184-000|Building inspector
+207,2025-04184-000,Hard,Public finance,W,2,921130,92,True,False,2025-04184-000|Public finance
+208,2025-04184-000,Hard,Urban planning and development,W,2,925120,92,True,False,2025-04184-000|Urban planning and development
+209,2025-04184-000,Hard,Public housing,W,2,925110,92,True,False,2025-04184-000|Public housing
+210,2025-04184-000,Hard,Library,W,2,519120,51,True,False,2025-04184-000|Library
+211,2025-04184-000,Hard,Fire protection,W,2,922160,92,True,False,2025-04184-000|Fire protection
+212,2025-04184-000,Hard,Parks and recreation,W,2,561730;713940,56,True,True,2025-04184-000|Parks and recreation
+213,2025-04184-000,Hard,Police protection,W,2,922120,92,True,False,2025-04184-000|Police protection
+214,2025-04184-000,Hard,Water distribution,W,2,221310,22,True,False,2025-04184-000|Water distribution
+215,2025-04184-000,Hard,Engineering ,W,2,541330,54,True,False,2025-04184-000|Engineering 
+216,2025-04184-000,Hard,Sewer collection operations,W,2,221320,22,True,False,2025-04184-000|Sewer collection operations
+217,2025-04184-000,Hard,Electric line maintenance,W,2,237130,23,True,False,2025-04184-000|Electric line maintenance
+218,2025-04184-000,Hard,General non-specficic auto mechanics,W,2,811111,81,True,False,2025-04184-000|General non-specficic auto mechanics
+219,2025-04184-000,Hard,General non-specific facilities maintenance,W,2,561210,56,True,False,2025-04184-000|General non-specific facilities maintenance
+220,2025-04184-000,Hard,Cemetery,W,2,812220,81,True,False,2025-04184-000|Cemetery
+221,2025-04184-000,Hard,Tax assessor,G,2,921130,92,True,False,2025-04184-000|Tax assessor
+222,2025-04184-000,Hard,Building inspector,G,2,541350,54,True,False,2025-04184-000|Building inspector
+223,2025-04184-000,Hard,Engineering,G,2,541330,54,True,False,2025-04184-000|Engineering
+224,2025-04184-000,Hard,Human resources,G,2,921190,92,True,False,2025-04184-000|Human resources
+225,2025-04184-000,Hard,Fire prevention,G,2,922160,92,True,False,2025-04184-000|Fire prevention
+226,2025-04184-000,Hard,Park maintenance,G,2,561730,56,True,False,2025-04184-000|Park maintenance
+227,2025-04184-000,Hard,Police protection,G,2,922120,92,True,False,2025-04184-000|Police protection
+228,2025-04184-000,Hard,Water supply,G,2,221310,22,True,False,2025-04184-000|Water supply
+229,2025-04184-000,Hard,Sewer collection operations,G,2,221320,22,True,False,2025-04184-000|Sewer collection operations
+230,2025-04184-000,Hard,Auto maintenance,G,2,811111,81,True,False,2025-04184-000|Auto maintenance
+231,2025-04184-000,Hard,Building maintenance,G,2,561210,56,True,False,2025-04184-000|Building maintenance
+232,2025-04184-000,Hard,Public finance,D,2,921130,92,True,False,2025-04184-000|Public finance
+233,2025-04184-000,Hard,Engineering,D,2,541330,54,True,False,2025-04184-000|Engineering
+234,2025-04184-000,Hard,Building inspector,D,2,541350,54,True,False,2025-04184-000|Building inspector
+235,2025-04184-000,Hard,Urban planning and development,D,2,925120,92,True,False,2025-04184-000|Urban planning and development
+236,2025-04184-000,Hard,Library,D,2,519120,51,True,False,2025-04184-000|Library
+237,2025-04184-000,Hard,Fire protection,D,2,922160,92,True,False,2025-04184-000|Fire protection
+238,2025-04184-000,Hard,Parks and landscaping,D,2,561730,56,True,False,2025-04184-000|Parks and landscaping
+239,2025-04184-000,Hard,Recreation programs,D,2,713940,71,True,False,2025-04184-000|Recreation programs
+240,2025-04184-000,Hard,Police protection,D,2,922120,92,True,False,2025-04184-000|Police protection
+241,2025-04184-000,Hard,Sewer maintenance,D,2,237110,23,True,False,2025-04184-000|Sewer maintenance
+242,2025-04184-000,Hard,Water supply,D,2,221310,22,True,False,2025-04184-000|Water supply
+243,2025-04184-000,Hard,Sewage treatment,D,2,221320,22,True,False,2025-04184-000|Sewage treatment
+244,2025-04184-000,Hard,Cemetery,D,2,812220,81,True,False,2025-04184-000|Cemetery
+245,2024-04451-000,Hard,Lifeguarding,W,2,713940,71,True,False,2024-04451-000|Lifeguarding
+246,2024-04451-000,Hard,General facility maintenance,W,2,561210,56,True,False,2024-04451-000|General facility maintenance
+247,2024-04451-000,Hard,Sewage related,W,2,221320,22,True,False,2024-04451-000|Sewage related
+248,2024-04451-000,Hard,Engineering,W,2,541330,54,True,False,2024-04451-000|Engineering
+249,2024-04451-000,Hard,General non-specific mechanics,W,2,811310;811111,81,True,True,2024-04451-000|General non-specific mechanics
+250,2024-04451-000,Hard,Road related,W,2,237310,23,True,False,2024-04451-000|Road related
+251,2024-04451-000,Hard,Landscaping related,W,2,561730,56,True,False,2024-04451-000|Landscaping related
+252,2024-04451-000,Hard,Water supply,W,2,221310,21,True,False,2024-04451-000|Water supply
+253,2024-04451-000,Hard,Surveying,W,2,541370,54,True,False,2024-04451-000|Surveying
+254,2024-04451-000,Hard,Grounds maintenance,G,2,561730,56,True,False,2024-04451-000|Grounds maintenance
+255,2024-04451-000,Hard,Building maintenance,G,2,561210,56,True,False,2024-04451-000|Building maintenance
+256,2024-04451-000,Hard,Golf course maintenance,G,2,713910,71,True,False,2024-04451-000|Golf course maintenance
+257,2024-04451-000,Hard,Road maintenance,G,2,237310,23,True,False,2024-04451-000|Road maintenance
+258,2024-04451-000,Hard,Recreation and lifeguards,G,2,713940,71,True,False,2024-04451-000|Recreation and lifeguards
+259,2024-04451-000,Hard,Sewage treatment,G,2,221320,22,True,False,2024-04451-000|Sewage treatment
+260,2024-04451-000,Hard,Water supply,G,2,221310,22,True,False,2024-04451-000|Water supply
+261,2024-04451-000,Hard,Surveying,G,2,541370,54,True,False,2024-04451-000|Surveying
+262,2024-04451-000,Hard,Recreation,D,2,713940,71,True,False,2024-04451-000|Recreation
+263,2024-04451-000,Hard,Sewer system,D,2,221320,22,True,False,2024-04451-000|Sewer system
+264,2024-04451-000,Hard,Groundskeeping,D,2,561730,56,True,False,2024-04451-000|Groundskeeping
+265,2024-04451-000,Hard,Road related,D,2,237310,23,True,False,2024-04451-000|Road related
+266,2024-04451-000,Hard,Conservation,D,2,924120,92,True,False,2024-04451-000|Conservation
+267,2024-04451-000,Hard,Surveying,D,2,541370,54,True,False,2024-04451-000|Surveying
+268,2024-04451-000,Hard,Sewer line maintenance,D,2,237110,23,True,False,2024-04451-000|Sewer line maintenance
+269,2024-04451-000,Hard,Machinery and equipment repair,D,2,811310,81,True,False,2024-04451-000|Machinery and equipment repair
+270,2024-04451-000,Hard,Traffic signalers,D,2,561990,56,True,False,2024-04451-000|Traffic signalers
+271,2024-04451-000,Hard,Building maintenance,D,2,236220,23,True,False,2024-04451-000|Building maintenance
